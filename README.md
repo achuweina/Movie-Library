@@ -20,3 +20,5 @@ Year, bigint, NULL
 You must create the relationships in the database once you have it set up correctly, to enjoy the application.
 
 I recommend that you review the code to check the strings of the tables. :)
+
+The forms are very simple, you can create them with Visual Studio, or wait for the update.....
